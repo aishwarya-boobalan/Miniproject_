@@ -23,9 +23,7 @@ The project also provides interactive dashboard analytics and visual insights fo
 
 ![Dashboard](screenshots/image.png)
 
-### Prediction Result
 
-![Prediction](screenshots/image copy.png)
 
 ---
 
